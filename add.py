@@ -1,6 +1,6 @@
-def mul(a, b):
+def add(a, b):
     return a * b
 
 if __name__ == "__main__":
-    result = mul(10,15)
+    result = add(23,27)
     print("Result:", result)
